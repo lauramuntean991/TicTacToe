@@ -3,7 +3,8 @@ The application is expecting the user(s) to enter their name(s) and play a class
 
 The results to be displayed:
 
--Name (X)/(O) Wins! – If one of the players has a winning combination ( Three X’s or O’s  on 
-                                           a row, column or diagonal).
+-Name (X)/(O) Wins! – If one of the players has a winning combination ( Three X’s or O’s  on a row, column or diagonal).
+
 -Draw – If no one has a winning combination and all the buttons are pressed.
+
 -Warning: " Enter your name/names" – If no one enters their name.
